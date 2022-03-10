@@ -1,3 +1,6 @@
+This is an example dAPP that lets you claim Stars as NFT (ERC-721).
+
+Find the token at:
 # StarNotary
 ERC-721 Token Name - Twinkle Token
 
